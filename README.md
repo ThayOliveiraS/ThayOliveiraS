@@ -6,8 +6,8 @@ Olá! Eu sou a Thayná Oliveira 🤓✨
 
 <div>
  <a href = " https://github.com/ThayOliveiraS ">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thayoliveiras&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
- <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayoliveiras&layout=compact&langs_count=7&theme=panda"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thayoliveiras&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+ <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayoliveiras&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
   ##
