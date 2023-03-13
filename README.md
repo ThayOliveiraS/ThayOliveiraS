@@ -1,7 +1,6 @@
 Olá! Eu sou a Thayná Oliveira 🤓✨
 
-- 💉 Hoje trabalho como técnica de coleta
-- 👩🏻‍💻 Estudando front-end
+- 👩🏻‍💻 Estudando Desenvolvimento Mobile na Prodigyan
 - 👩🏻 Pronomes: ela/dela
 
 <div>
